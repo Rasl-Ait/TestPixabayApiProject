@@ -1,4 +1,4 @@
-# TextPixabayApiProject
+# TestPixabayApiProject
 Use your Api key for work https://pixabay.com/api/docs/
 
 ## Demonstration App
